@@ -30,3 +30,4 @@
 # Project specific files
 Debug
 log.txt
+*.opensdf
